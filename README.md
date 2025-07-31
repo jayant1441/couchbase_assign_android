@@ -6,6 +6,20 @@ Note-taking application built with **Jetpack Compose** and **Couchbase Lite**, w
 
 For this assignment I pushed my capella credentials to Github in public repo for testing purpose (credentials should never be uploaded to github)
 
+## Screenshots
+
+<img width="183" height="395" alt="Screenshot 2025-07-31 at 11 58 07 PM" src="https://github.com/user-attachments/assets/301f6a1a-70f9-4715-9eea-3a2dfd27de00" />
+<img width="184" height="393" alt="Screenshot 2025-07-31 at 11 58 27 PM" src="https://github.com/user-attachments/assets/96e8d53c-a127-46f0-a2ca-0512daa808cd" />
+<img width="180" height="393" alt="Screenshot 2025-07-31 at 11 58 35 PM" src="https://github.com/user-attachments/assets/40398805-eeb2-4c0e-b58f-e6fcdef0f4cd" />
+
+## YouTube Demo
+
+[Watch here](https://youtu.be/3ycznfUqtmY)
+
+[![Watch the video](https://img.youtube.com/vi/3ycznfUqtmY/0.jpg)](https://youtu.be/3ycznfUqtmY)
+
+
+
 ## Features
 
 - **Note Management**: CRUD Notes app
